@@ -1,0 +1,7 @@
+.git
+.gitignore
+*.log
+requests.csv
+README.local.txt
+site_checks
+tmp*
